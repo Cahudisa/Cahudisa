@@ -24,8 +24,8 @@ SQL-first analytics pipeline on the Olist Brazilian e-commerce dataset: PostgreS
 Medallion-architecture pipeline in PySpark that simulates Pokémon battles with a Monte Carlo approach, then analyzes outcomes with Matplotlib/Seaborn.
 `PySpark` `Spark SQL` `Monte Carlo Simulation` `Matplotlib` `Seaborn`
 
-### [spark-anime-recommender](https://github.com/Cahudisa/spark-anime-recommender) *(in progress)*
-Recommendation engine on 57M+ anime ratings: Kimball star schema in the Gold layer and Spark MLlib ALS collaborative filtering, benchmarked against two baselines.
+### [spark-anime-recommender](https://github.com/Cahudisa/spark-anime-recommender)
+Recommendation engine on 57M+ anime ratings: Kimball star schema in the Gold layer and Spark MLlib ALS collaborative filtering, benchmarked against two baselines for honest evaluation.
 `PySpark` `Spark MLlib` `Kimball Star Schema` `Delta Lake`
 
 ---
